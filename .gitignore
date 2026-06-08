@@ -1,0 +1,7 @@
+.alpackages/
+.altestrunner/
+.snapshots/
+
+*.app
+*.app.symbols
+*.zip
