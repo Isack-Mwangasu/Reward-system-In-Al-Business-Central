@@ -8,12 +8,12 @@
             "environmentType": "Sandbox",
             "environmentName": "sandbox",
             "tenant": "4e19a68e-2def-4107-ba81-b5fb1bdcd10c",
-            "startupObjectId": 22,
+            "startupObjectId": 50103,
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
-            "enableSqlInformationDebugger": true
+            "enableSqlInformationDebugger": true,
         }
     ]
 }
