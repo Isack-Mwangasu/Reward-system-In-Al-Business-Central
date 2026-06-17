@@ -1,4 +1,4 @@
-Page 50102 "Reward card"
+Page 50150 "Reward card"
 {
     PageType = card;
     UsageCategory = Tasks;

@@ -1,4 +1,4 @@
-page 50103 "Reward List"
+page 50151 "Reward List"
 {
     PageType = List;
     UsageCategory = Lists;

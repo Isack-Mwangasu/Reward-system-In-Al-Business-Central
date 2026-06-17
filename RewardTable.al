@@ -1,6 +1,6 @@
 namespace Contoso.Rewards;
 
-table 50101 Reward
+table 50150 Reward
 {
     DataClassification = CustomerContent;
 
